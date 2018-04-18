@@ -140,7 +140,7 @@ EMAIL_USE_TLS = True
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'contact.imagepersona@gmail.com'
-EMAIL_HOST_PASSWORD = 'thisispassword'
+EMAIL_HOST_PASSWORD = '*************'
 
 # Search Factor
 SEARCH_FACTOR = 0.6 # Should be between 0 and 1
