@@ -6,6 +6,8 @@ Django Web App for sorting of Images based on people present in it.
 
 Video Presentation: https://www.youtube.com/watch?v=k7_h2YZyFRQ
 
+Initial Project Pitch: [PDF](https://github.com/mahimg/Image-Persona/blob/master/Phase%201%20Design%20Image-Persona.pdf)
+
 --------------------------------
 
 ## Project Authors
